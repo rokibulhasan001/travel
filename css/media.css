@@ -1,0 +1,685 @@
+/* Extra small devices (portrait phones, less than 576px)*/ 
+@media (max-width: 575.98px) {
+	.images-1 img {
+    display: none;
+}
+.banner {
+    margin-top: 0;
+}
+
+.b-text{
+	text-align: center;
+
+}
+.b-img{
+	margin-top: 49px;
+    margin-left: -63px;
+}
+
+.b-text p {
+    margin-right: 0;
+}
+.b-text h1 {
+    font-size: 60px; 
+    line-height: 74px !important;
+    margin-bottom: 7px;
+}
+.drop-c{
+	margin-left: 19px;
+}
+.dropdown-menu{
+	width: 180px;
+}
+.b-text button {
+   padding: 12px 25px;
+
+}
+.b-text h2 {
+    font-size: 17px;
+    margin: 13px 0 15px;
+}
+.b-text p {
+    line-height: 25px;
+
+}
+/*service*/
+.s-text {
+    padding: 65px 0 25px;
+}
+.s-text h1 {
+    font-size: 30px;
+ 
+}
+.s-text h4 {
+    font-size: 16px;
+}
+.f-single {
+    margin: 50px 0 70px;
+    margin: 15px 0;
+}
+.f-single h3 {
+    margin: 15px 0 10px;
+}
+.posi{
+	display: none;
+
+}
+/*selling*/
+.s-single {
+    margin: 40px 0 25px;   
+}
+.s-single {
+    padding: 30px 40px 10px;
+}
+/*book section*/
+.book {
+    padding: 41px 0 40px;
+}
+.book-single {
+    padding-top: 80px;
+    margin-left: 12px;
+    text-align: center;
+}
+.b-left {
+    text-align: center;
+    padding: 0 0 0;
+}
+.bbb-text {
+    margin-left: 0;
+}
+
+.bb-text h2 {
+    font-size: 28px;
+    margin: 15px 0 21px;
+    padding: 0px 5px 0;
+}
+.bbb-text p {
+    margin-bottom: 13px;
+    font-size: 15px;
+}
+.book-single h3 {
+    margin: 15px 0 15px;
+}
+.book-single p {
+    margin: 16px 0 16px;
+}
+ .bbb-text {
+    margin-right: 0;
+}
+.bbb-text h5 {
+    font-size: 17px;
+   
+}
+.backimg {
+   display: none;
+}
+.book-single p {
+    margin: 10px 0 11px;
+}
+.bb-img img {
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+/*axon start*/
+.a-img {
+    padding: 22px 82px;  
+}
+/*information*/
+
+.c-form {
+    padding: 0 0;
+  
+}
+.mack {
+  display: none;
+}
+.mack1 {
+  display: none;
+}
+ .info h2 {
+    margin: 40px 0;
+    font-size: 17px;
+}
+ .info {
+    padding: 0 0;
+}
+.c-submit {
+    padding: 9px 30px;
+    height: 40px;
+}
+.c-input {
+    height: 41px;
+    padding: 15px 17px;
+}
+
+.mack2 {
+    top: 0;
+    width: 41px;
+    right: 0;
+}
+
+.info {
+    border-radius: 47px 0 0 0;
+    padding: 0 20px;
+}
+/*footertop*/
+.footertop {
+    padding: 38px 0 30px;
+    text-align: center;
+}
+.f-top {
+    margin-bottom: 55px;
+}
+.mack3 {
+   display: none;
+}
+.f-top h3 {
+    margin-bottom: 9px;
+
+}
+.f-top h4 {
+    margin-bottom: 6px;
+}
+.f-top p {
+    margin-right: 0;
+}
+.footertop {
+    padding: 11px 0 30px;
+    text-align: center;
+}
+
+	
+}
+
+/* Small devices (landscape phones, 576px and up)*/ 
+@media (min-width: 576px) and (max-width: 767.98px) {
+.images-1 img {
+    display: none;
+}
+.banner {
+    margin-top: 0;
+}
+
+.b-text{
+	text-align: center;
+
+}
+.b-img{
+	margin-top: 49px;
+    margin-left: -63px;
+}
+
+.b-text p {
+    margin-right: 0;
+}
+.b-text h1 {
+    font-size: 60px; 
+    line-height: 74px !important;
+    margin-bottom: 7px;
+}
+.drop-c{
+	margin-left: 19px;
+}
+.dropdown-menu{
+	width: 180px;
+}
+.b-text button {
+   padding: 12px 25px;
+
+}
+/*service*/
+.s-text {
+    padding: 70px 0 26px;
+}
+.s-text h1 {
+    font-size: 35px;
+ 
+}
+.s-text h4 {
+    font-size: 16px;
+}
+.f-single {
+    margin: 50px 0 70px;
+    margin: 15px 93px;
+}
+.posi{
+	display: none;
+
+}
+/*selling*/
+.s-single {
+    margin: 40px 80px 25px;   
+}
+.s-single {
+    padding: 40px 40px 10px;
+  
+}
+/*book section*/
+.book {
+    padding: 41px 0 40px;
+}
+.book-single {
+    padding-top: 80px;
+    margin-left: 12px;
+    text-align: center;
+}
+.b-left{
+	text-align: center;
+    padding: 0 99px 0;
+
+}
+.bbb-text {
+    margin-left: 0;
+}
+
+.bb-text h2 {
+    font-size: 28px;
+    margin: 15px 0 21px;
+    padding: 0px 5px 0;
+}
+.bbb-text p {
+    margin-bottom: 13px;
+    font-size: 15px;
+}
+.book-single h3 {
+    margin: 15px 0 15px;
+}
+.book-single p {
+    margin: 16px 0 16px;
+}
+ .bbb-text {
+    margin-right: 0;
+}
+.bbb-text h5 {
+    font-size: 17px;
+   
+}
+.backimg {
+   display: none;
+}
+.book-single p {
+    margin: 10px 0 11px;
+}
+.bb-img img {
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+/*axon start*/
+.a-img {
+    padding: 12px 12px;
+ 
+}
+/*information*/
+
+.c-form {
+    padding: 0 40px;
+  
+}
+.mack {
+  display: none;
+}
+.mack1 {
+  display: none;
+}
+ .info h2 {
+    margin: 40px 25px;
+    font-size: 18px;
+}
+ .info {
+    padding: 0 28px;
+}
+.c-submit {
+    padding: 9px 30px;
+    height: 50px;
+}
+/*footertop*/
+.footertop {
+    padding: 38px 0 30px;
+    text-align: center;
+}
+.f-top {
+    margin-bottom: 55px;
+}
+.mack3 {
+   display: none;
+}
+.f-top h3 {
+    margin-bottom: 9px;
+
+}
+.f-top h4 {
+    margin-bottom: 6px;
+}
+
+
+	
+}
+
+/* Medium devices (tablets, 768px and up)*/ 
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+.images-1 img {
+    display: none;
+}
+.banner {
+    margin-top: 0;
+}
+
+.b-text{
+	text-align: center;
+
+}
+.b-img{
+	margin-top: 49px;
+    margin-left: -63px;
+}
+
+.b-text p {
+    margin-right: 0;
+}
+.b-text h1 {
+    font-size: 78px; 
+    margin-bottom: 7px;
+}
+.drop-c{
+	    margin-left: 19px;
+}
+.dropdown-menu{
+	    width: 180px;
+}
+/*service*/
+.s-text {
+    padding: 85px 0 28px;
+
+}
+.s-text h1 {
+    font-size: 40px;
+ 
+}
+.f-single {
+    margin: 30px 0 0;
+
+}
+.posi{
+	display: none;
+
+}
+/*selling*/
+.s-single {
+    margin: 40px 110px 25px;
+   
+}
+.s-single {
+    padding: 40px 40px 10px;
+  
+}
+/*book section*/
+.book {
+    padding: 41px 0 40px;
+}
+.book-single {
+    padding-top: 80px;
+    margin-left: 12px;
+    text-align: center;
+}
+.b-left{
+	text-align: center;
+    padding: 0 99px 0;
+
+}
+.bbb-text {
+    margin-left: 0;
+}
+
+.bb-text h2 {
+    font-size: 35px;
+    margin: 15px 0 21px;
+    padding: 0px 5px 0;
+}
+.bbb-text p {
+    margin-bottom: 13px;
+    font-size: 15px;
+}
+.book-single h3 {
+    margin: 15px 0 15px;
+}
+.book-single p {
+    margin: 16px 0 16px;
+}
+ .bbb-text {
+    margin-right: 0;
+}
+.bbb-text h5 {
+    font-size: 17px;
+   
+}
+.backimg {
+   display: none;
+}
+.book-single p {
+    margin: 10px 0 11px;
+}
+.bb-img img {
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+/*Axon start*/
+.a-img {
+    padding: 30px 30px;
+  
+}
+.ddd1 {
+    margin-top: 41px;
+}
+/*information*/
+
+.c-form {
+    padding: 0 115px;
+  
+}
+.mack {
+  display: none;
+}
+.mack1 {
+  display: none;
+}
+.info h2 {
+    margin: 56px 90px;
+    font-size: 19px;
+}
+ .info {
+    padding: 0 28px;
+}
+/*footertop*/
+.footertop {
+    padding: 38px 0 30px;
+    text-align: center;
+}
+.f-top {
+    margin-bottom: 55px;
+}
+
+
+
+
+
+
+
+	
+}
+
+/* Large devices (desktops, 992px and up)*/ 
+@media (min-width: 992px) and (max-width: 1199.98px) {
+.banner {
+    margin-top: -500px;
+}
+.menu ul li a {
+    padding: 5px 10px !important;
+}
+    
+.b-text h1 {
+    font-size: 65px;
+    line-height: 70px;
+    margin-bottom: 10px;
+}
+.b-text p {
+    margin-right: 80px;
+}
+.b-text p {
+     margin-right: 1px;
+}
+.b-text p {
+    line-height: 25px;
+   
+}
+.b-text button {
+    font-size: 16px;
+    padding: 9px 15px;
+}
+.b-text h2 {
+    margin: 30px 0 25px;
+}
+.menu ul li a {
+    padding: 5px 13px !important;
+
+}
+.images-1 img {
+    margin-left: 401px !important;
+     margin-top: -191px;
+}
+/*f-single*/
+.f-single h3 {
+    font-size: 18px;
+  
+}
+.f-single p {
+    line-height: 24px;
+}
+.f-single {
+    margin: 50px 0 40px;
+ 
+}
+.posi {
+  display: none;
+}
+/*book section*/
+.book-single {
+    padding-top: 50px;
+    margin-left: 12px;
+}
+.bb-text h2 {
+    font-size: 35px;
+     margin: 15px 0 21px;
+     padding: 0px 73px 0 0;
+}
+.bbb-text {
+    margin-left: 0;
+}
+.bbb-text p {
+    margin-bottom: 13px;
+    font-size: 15px;
+}
+.book-single h3 {
+    margin: 15px 0 15px;
+}
+.book-single p {
+    margin: 16px 0 16px;
+}
+.bbb-text {
+    margin-right: 0;
+}
+.bbb-text h5 {
+    font-size: 16px;
+   
+}
+.s-text h1 {
+   font-size: 40px;
+  
+}
+.bbb-text {
+    margin-left: -13px;
+}
+.backimg {
+    top: 192px;
+    right: -248px;
+}
+.book-single p {
+    margin: 10px 0 11px;
+}
+/*Axon start*/
+.a-img {
+    padding: 30px 30px;
+  
+}
+.ddd1 {
+    margin-top: 41px;
+}
+/*information section*/
+.info h2 {
+    font-size: 19px;
+
+}
+
+
+	
+}
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+    .images-1 img {
+     margin-left: 604px;
+}
+    .b-text h1 {
+    font-size: 72px;
+    line-height: 85px;
+    margin-bottom: 14px;
+}
+.b-text p {
+    margin-right: 80px;
+}
+.b-text h2 {
+    margin: 40px 0 25px;
+}
+/*book section*/
+.bb-text h2 {
+    font-size: 35px;
+    margin: 17px 0 32px;
+    padding: 0px 162px 0 0;
+}
+.bbb-text {
+    margin-left: -27px;
+    margin-right: 80px;
+ 
+}
+.bbb-text p {
+    line-height: 21px;
+}
+.book-single h3 {
+    margin: 15px 0 15px;
+}
+.book-single p {
+    margin: 16px 0 16px;
+}
+/*Axon start*/
+.ddd1 {
+    margin-top: 25px;
+}
+
+	
+}
+
+
+
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1440px) and (max-width: 1599.98px) {
+.images-1 img {
+    margin-left: 740px;
+}
+
+}
+
+/* Extra extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1600px) {
+
+}

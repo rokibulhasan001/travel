@@ -1,0 +1,6 @@
+figma link
+https://www.figma.com/design/iQwohJXEyx9r0oxo0kFMlL/Travel-Website-Landing-Page-(Community)?node-id=108-84&t=1PVOnkbuLVMn1hWl-0
+
+font-family: "Poppins", sans-serif;
+font-family: "Open Sans", sans-serif;
+  font-family: "Volkhov", serif;
